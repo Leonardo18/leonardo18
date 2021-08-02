@@ -9,7 +9,7 @@
   <img align="center" alt="Leo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://media4.giphy.com/media/13HgwGsXF0aiGY/200w.webp?cid=ecf05e47790pc9rvlhsfdmk5ct3fep6exmf8vffo6wll3ipr&rid=200w.webp&ct=g">
+  <img align="right" alt="Leo-Fire" src="https://media4.giphy.com/media/13HgwGsXF0aiGY/200w.webp?cid=ecf05e47790pc9rvlhsfdmk5ct3fep6exmf8vffo6wll3ipr&rid=200w.webp&ct=g">
 </div>
   
  ##
