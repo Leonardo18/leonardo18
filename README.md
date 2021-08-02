@@ -1,4 +1,4 @@
- ## Hi!! I'm am Leonardo Dutra
+ ## Hi!! I'm Leonardo Dutra
  <div>
   <a href="https://github.com/leonardo18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo18&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
